@@ -8,7 +8,7 @@
 body {
     height: 100vh;
     width: 100vw;
-    background-color: beige;
+    background-color: rgb(237, 237, 220);
 
 }
 
@@ -29,6 +29,7 @@ h1 {
 a, p{
     text-decoration: now;
     font-size: 30px;
+    
 }
 
 .navLinks {
