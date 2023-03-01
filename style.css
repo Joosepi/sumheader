@@ -41,6 +41,6 @@ a, p{
     position: absolute;
     background-color: grey;
     max-height: 0px;
-    transition: all;
+    
     overflow: hidden;
 }
